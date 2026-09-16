@@ -1,0 +1,3 @@
+Today i am working on calendar , while i am working on calendar ->
+i got some learning :
+Adding redux to reduce api calls when we swiping , and using local cache to store current things, and what redux do it store all data in it and we can see it , by i was facing the issue that my calender swiping was laging so what i did , i added the flatlist there , so by flatlist it only shows the current prev next , so by this swiping becomes too easy
