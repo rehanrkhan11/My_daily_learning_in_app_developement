@@ -1,1 +1,8 @@
-```Carousel Architecture```
+#Carousel Architecture
+Carousel Architecture are used in basically ui/ux making and database processing and —where items or tasks are processed in a continuous, repeating loop, just like a revolving merry-go-round
+Instead of processing items in a single straight line from start to finish, the system keeps cycling through items, giving each a short turn, and moving to the next.
+How it Works: Only 1 to 3 items are visible on screen at once, but in the background, all items are arranged in a circular loop. Swiping right or clicking "Next" smoothly cycles to the next item, wrapping back to the beginning when you reach the end.
+
+
+#Redux
+##useDispatch - It acts as a it can only change the state
